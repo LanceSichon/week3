@@ -7,15 +7,15 @@
 <u> The world is now suffering<br> from corona virus</u>
 <br> Let us pray for our health<br><br>
 
-<p align ="center"><img src="week3/Sun.jpg" width="210,length="210"></img><br>
+<p align ="center"><img src="week3/sun/Sun.jpg" width="210,length="210"></img><br>
 The sunshine is so bright <br>
 It gives hope to everyone<br><br>
 
-<img src= "week3/Circle.png", width="300", length="300"></img><br>
+<img src= "week3/Circle/Circle.png", width="300", length="300"></img><br>
 It's a small<br>
 <b>World after all</b><br><br></p>
 
-<p align=”right”> <img src="week3/Smiley.png", width = 450 , length = 450> </img> <br>
+<p align=”right”> <img src="week3/smiley/Smiley.png", width = 450 , length = 450> </img> <br>
 <b>Always wear a smile,  </b><br> you might inspire somebody <br> with it. </p>
 <br><br>
 
